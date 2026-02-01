@@ -1157,17 +1157,6 @@
 			(checksum "DA51E5561B8AA251BBFAF89B17447C2E")
 		)
 	)
-	(model "2434804-1.stp"
-		(offset
-			(xyz 0 0 6.07000008)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
 	(model "kicad-embed://c-2434804-1-a1-3d.stp"
 		(offset
 			(xyz 0 0 6)
